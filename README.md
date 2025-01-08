@@ -1,4 +1,4 @@
-# TF ECG classification for MLBio class.
+# ECG classification for MLBio class.
 
 To setup the environment, please run the following command:
 
